@@ -7,11 +7,11 @@ U202015114@hust.edu.cn
 
 To install with pip on macOS or Linux, run:
 
-    python3 -m pip install coin
+    $ python3 -m pip install coin
 
 To install with pip on Windows, run:
 
-    py -m pip install coin
+    >>>py -m pip install coin
 
 ## Quickstart Guide
 
