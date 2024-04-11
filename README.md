@@ -15,7 +15,7 @@ To install with pip on Windows, run:
 
 ## Quickstart Guide
 
-TODO - fill this in later
+Here is some testing for git
 
 ## Contribute
 
